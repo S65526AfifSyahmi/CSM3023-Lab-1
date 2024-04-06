@@ -1,4 +1,4 @@
-# CSM3023-Lab-1
+# CSM3023 Lab 1
 
 ## Name: Ahmad Afif Syahmi bin Ahmad Rozali
 ## Matric: S65526
